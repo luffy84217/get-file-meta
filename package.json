@@ -1,0 +1,25 @@
+{
+  "name": "get-file-meta",
+  "version": "1.0.0",
+  "description": "this is an app providing get-file-meta microservice.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "multer": "^1.3.0"
+  },
+  "engines": {
+    "node": "^6.11.1"
+  },
+  "repository": {},
+  "devDependencies": {},
+  "author": "Fu Chuan Yu",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
